@@ -8,7 +8,7 @@
             <img class="head" src="../img/img.png">
           </div>
           <div style="height: 200px">
-            <div class="small">云烟</div>
+            <div class="small">云 烟</div>
             <div class="small">高进</div>
             <div class="small">809816252@qq.com</div>
             <div class="small">管理员</div>
